@@ -1,8 +1,11 @@
 git
   Tutorial
     beginer
+        https://www.atlassian.com/git/tutorials/rewriting-history
     developer
         http://nvie.com/posts/a-successful-git-branching-model/
+        https://github.com/dchelimsky/rspec/wiki/Topic-Branches
+        http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-pull-and-git-fetch
     advanced
   Book
     http://git-scm.com/book/en/v2
